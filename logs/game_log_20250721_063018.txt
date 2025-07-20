@@ -1,0 +1,19 @@
+2025-07-21 06:30:18,592 - INFO - Game started.
+2025-07-21 06:30:18,592 - INFO - Current points: 60
+2025-07-21 06:30:18,592 - INFO - Player paid 25 points to play. Remaining: 35
+2025-07-21 06:30:18,592 - INFO - House drew card: 4 of Diamonds
+2025-07-21 06:30:24,422 - INFO - Player guessed: less
+2025-07-21 06:30:24,422 - INFO - Player drew card: 8 of Spades
+2025-07-21 06:30:24,422 - INFO - Calling compare_cards
+2025-07-21 06:30:24,422 - INFO - Result: Player lost.
+2025-07-21 06:30:24,422 - INFO - Player lost the round.
+2025-07-21 06:30:24,422 - INFO - Current points: 35
+2025-07-21 06:30:24,422 - INFO - Player paid 25 points to play. Remaining: 10
+2025-07-21 06:30:24,422 - INFO - House drew card: 9 of Clubs
+2025-07-21 06:30:39,742 - INFO - Player guessed: greater
+2025-07-21 06:30:39,742 - INFO - Player drew card: A of Clubs
+2025-07-21 06:30:39,743 - INFO - Calling compare_cards
+2025-07-21 06:30:39,743 - INFO - Result: Player lost.
+2025-07-21 06:30:39,743 - INFO - Player lost the round.
+2025-07-21 06:30:39,743 - INFO - Current points: 10
+2025-07-21 06:30:39,743 - INFO - Game over: player lost.

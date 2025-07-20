@@ -1,0 +1,34 @@
+2025-07-21 06:29:51,599 - INFO - Game started.
+2025-07-21 06:29:51,599 - INFO - Current points: 60
+2025-07-21 06:29:51,599 - INFO - Player paid 25 points to play. Remaining: 35
+2025-07-21 06:29:51,599 - INFO - House drew card: 2 of Spades
+2025-07-21 06:29:56,870 - INFO - Player guessed: greater
+2025-07-21 06:29:56,870 - INFO - Player drew card: K of Hearts
+2025-07-21 06:29:56,870 - INFO - Calling compare_cards
+2025-07-21 06:29:56,870 - INFO - Result: Player won.
+2025-07-21 06:29:56,871 - INFO - Player won the round. Current reward: 40
+2025-07-21 06:30:00,897 - INFO - Player chose to continue.
+2025-07-21 06:30:00,897 - INFO - Current points: 35
+2025-07-21 06:30:00,898 - INFO - Player paid 25 points to play. Remaining: 10
+2025-07-21 06:30:00,898 - INFO - House drew card: 3 of Diamonds
+2025-07-21 06:30:03,910 - INFO - Player guessed: greater
+2025-07-21 06:30:03,911 - INFO - Player drew card: 5 of Diamonds
+2025-07-21 06:30:03,911 - INFO - Calling compare_cards
+2025-07-21 06:30:03,911 - INFO - Result: Player won.
+2025-07-21 06:30:03,911 - INFO - Player won the round. Current reward: 80
+2025-07-21 06:30:06,226 - INFO - Player chose to claim reward.
+2025-07-21 06:30:06,226 - INFO - Player claimed reward of 80 points.
+2025-07-21 06:30:06,227 - INFO - Points after claiming reward: 90
+2025-07-21 06:30:06,227 - INFO - Current points: 90
+2025-07-21 06:30:06,227 - INFO - Player paid 25 points to play. Remaining: 65
+2025-07-21 06:30:06,227 - INFO - House drew card: 10 of Clubs
+2025-07-21 06:30:12,256 - INFO - Player guessed: less
+2025-07-21 06:30:12,256 - INFO - Player drew card: 2 of Hearts
+2025-07-21 06:30:12,257 - INFO - Calling compare_cards
+2025-07-21 06:30:12,257 - INFO - Result: Player won.
+2025-07-21 06:30:12,257 - INFO - Player won the round. Current reward: 40
+2025-07-21 06:30:14,734 - INFO - Player chose to claim reward.
+2025-07-21 06:30:14,734 - INFO - Player claimed reward of 40 points.
+2025-07-21 06:30:14,735 - INFO - Points after claiming reward: 105
+2025-07-21 06:30:14,735 - INFO - Current points: 105
+2025-07-21 06:30:14,735 - INFO - Game over: player won.
